@@ -1,5 +1,5 @@
 # Site settings
-title: house of orange
+title: 鲨鱼辣椒's Blog
 SEOTitle: 鲨鱼辣椒的博客 | house of orange
 header-img: img/home-bg.jpg
 email: huxpro@gmail.com
@@ -17,8 +17,8 @@ RSS: false
 # zhihu_username:     huxpro
 # github_username:    huxpro
 # twitter_username:   huxpro
-#facebook_username:  huxpro
-#linkedin_username:  firstname-lastname-idxxxx
+# facebook_username:  huxpro
+# linkedin_username:  firstname-lastname-idxxxx
 
 
 
@@ -72,7 +72,7 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_domain: houseoforange.github.io
 
 
 
