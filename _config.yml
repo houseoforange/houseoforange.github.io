@@ -1,10 +1,10 @@
 # Site settings
 title: house of orange
-SEOTitle: ¿鲨鱼辣椒¿ | house of orange
+SEOTitle: ¿枫丹白露¿ | house of orange
 header-img: img/home-bg.jpg
 email: 
 description: "分享一些自己做的ctf比赛的writeup和技术分享。"
-keyword: "house of orange，CTF, AWD, 信息安全, writeup, pwn, ¿鲨鱼辣椒¿, python, php"
+keyword: "house of orange，CTF, AWD, 信息安全, writeup, pwn, ¿枫丹白露¿, python, php"
 url: "https://houseoforange.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -54,7 +54,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: 鲨鱼辣椒
+disqus_username: 枫丹白露
 
 # Netease settings
 netease_comment: true
